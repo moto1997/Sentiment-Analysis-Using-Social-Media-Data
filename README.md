@@ -1,5 +1,5 @@
 # Sentiment Analysis Using Social Media Data
-The individual project for MSc Urban Informatics。
+The individual project for MSc Urban Informatics.This research aims to gain insights into the public views on the 2020 USA Presidential Elections. In order to comprehend public views deeply, this research collects election-related tweets and then performs sentiment analysis using VADER and NRC Lexicon and topic modelling using LDA on the collected tweets. The sentiment analysis and topic modelling show that (1)Trump was criticized heavily by the public during this election. (2) The majority of people favoured Biden over Trump to be the president. (3) Attacking events that occurred in the US capitol intensified the aversion towards Trump from the masses. (4) The majority of people held a positive attitude toward the 2020 USA Presidential Election. (5)In this election, people were highly concerned about Hunter Biden's issues, Covid-related policies and mail voting, and possible election fraud risks. 
 
 Source Code file folder includes all of the source code for this individual project and the plots produced.  
 
